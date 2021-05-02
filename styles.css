@@ -1,0 +1,32 @@
+body {
+	background-color: gray;
+}
+h1{
+	color: pink;
+	font-size: 15px;
+}
+
+p {
+	color: red;
+	font-size: 18px;
+}
+
+table,
+td {
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
+
+li {
+    list-style-type: square;
+}
+
+li li {
+    list-style-type: circle;
+}
+
